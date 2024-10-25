@@ -41,7 +41,7 @@ The packet trace files used in this project include:
 
 ## Team
 - Carmen Abans Maciel: https://github.com/carmenabans
-- Noelia Hernández Rodríguez: https://github.com/Noeliahr10
+- Noelia Hernández Rodríguez: https://github.com/Noelia-Hernandez-Rodriguez
 
 
 ---
