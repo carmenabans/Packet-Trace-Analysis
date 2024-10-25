@@ -6,7 +6,7 @@ This project focuses on identifying network behaviors within packet traces using
 ## Context
 The project involved analyzing four packet trace files (`trace_1.pcap`, `trace_2.pcapng`, `trace_3.pcapng`, and `trace_4.pcap`). Each trace file included unique network scenarios, requiring protocol analysis, IP address identification, port scanning, and malware detection.
 
-## Datasets
+## Traces
 The packet trace files used in this project include:
 
 1. **trace_1.pcap**:
@@ -24,6 +24,11 @@ The packet trace files used in this project include:
 4. **trace_4.pcap**:
    - Objective: Detect a Windows host malware infection by analyzing date/time of infection, host identifiers (IP, MAC, and name), compromised domain/IP, and HTTP-based communication methods.
 
+
+🚨 **Warning**: The packet traces have been uploaded in compressed format for secure handling. It is highly recommended to open these traces in controlled and secure environments, such as a virtual machine, to mitigate potential risks associated with malware or sensitive data exposure.
+
+
+
 ## Key Features
 - **Protocol Analysis**: Deep-dive into prevalent protocols within packet traces.
 - **Traffic Filtering**: Custom Wireshark filters were created to isolate specific packet types.
@@ -38,6 +43,7 @@ The packet trace files used in this project include:
 ## Team
 - Carmen Abans Maciel: https://github.com/carmenabans
 - Noelia Hernández Rodríguez: https://github.com/Noeliahr10
+
 
 ---
 
