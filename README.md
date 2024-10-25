@@ -37,7 +37,6 @@ The packet trace files used in this project include:
 
 ## Technologies
 - **Wireshark**: Primary tool for packet capture analysis.
-- **Python** (optional): For further data processing and automation.
 - **Kali Linux**: Analysis environment, supporting a robust suite of network security tools.
 
 ## Team
